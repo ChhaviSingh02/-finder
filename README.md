@@ -15,4 +15,5 @@ https://www.kaggle.com/datasets/shanmukh05/anime-names-and-image-generation/data
 - Handle Generator: Develop an algorithm to suggest unique usernames (e.g., adding numbers, random words, or emojis).
 
 - ![image](https://github.com/user-attachments/assets/88773cd7-bc66-4943-90ec-8d5f550b806e)
+- https://www.figma.com/design/M0tcxuWidYw1GgfcRU3Lk1/finder?m=auto&t=cMNOK29Zy8SKkwsT-1
 
